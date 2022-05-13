@@ -57,3 +57,6 @@ Token List of More than 200 tokens on ethereum blockchain and its chains
 `DefiPulse Index (DPI)`
 
 AND MANY MORE...
+
+# request-addition
+To list a missing token , create an issue and write its `name` , `network/chain` , `contract address` , `logo url` .
