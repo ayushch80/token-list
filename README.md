@@ -2,6 +2,8 @@
 Token List of More than 200 tokens on ethereum blockchain and its chains
 
 # supported-networks
+`ETHEREUM MAINNET`
+
 `POLYGON MAINNET`
 
 # supported-polygon-mainnet-tokens
